@@ -1,3 +1,5 @@
+# Our first Rails application
+by [Sakti Reysaputra and M.Putera Wicaksana]
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
